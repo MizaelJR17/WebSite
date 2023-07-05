@@ -1,0 +1,10 @@
+builtins_platform=JS
+unique_name=com.varabyte.kobwebx\:kobwebx-markdown
+compiler_version=1.8.20
+depends=com.varabyte.kobweb\:kobweb-core com.varabyte.kobweb\:compose-html-ext org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+serializedKlibFingerprint=2h4h28utn2kay.xvqglsd3svaq
+serializedIrFileFingerprints=SerializedIrFileFingerprint(fileFingerprint\=3e6ud4648xiug.2tb4xdk0wm5tj)
+jsOutputName=kobweb-kobwebx-markdown
+abi_version=1.7.0
+metadata_version=1.4.1
+ir_version=1.0.0

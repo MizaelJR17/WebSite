@@ -1,0 +1,17 @@
+{
+  "name": "website",
+  "version": "unspecified",
+  "private": true,
+  "workspaces": [
+    "packages\\website",
+    "packages\\website-test",
+    "packages_imported\\kotlin\\1.8.20",
+    "packages_imported\\kotlin-test-js-runner\\0.0.1"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

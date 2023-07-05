@@ -1,0 +1,10 @@
+builtins_platform=JS
+unique_name=com.varabyte.kobweb\:kobweb-core
+compiler_version=1.8.20
+depends=com.varabyte.kobweb\:compose-html-ext org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+serializedKlibFingerprint=30lkqucl1jxut.1lobwhvgwlvl3
+serializedIrFileFingerprints=SerializedIrFileFingerprint(fileFingerprint\=5zu62dq87245.1qizheqvn92ni) SerializedIrFileFingerprint(fileFingerprint\=ea2wqm96mvj1.8tbkk4mv9oxj) SerializedIrFileFingerprint(fileFingerprint\=1pmv264az79oj.2rosj0ihswx37) SerializedIrFileFingerprint(fileFingerprint\=vvhlhfp769p.1x7ua1r2m7ek7) SerializedIrFileFingerprint(fileFingerprint\=1o8d8gjuewzdt.27z4x8c4li2u2) SerializedIrFileFingerprint(fileFingerprint\=3w30z2qwa5gnh.360j9clhvchbv) SerializedIrFileFingerprint(fileFingerprint\=1c86tixl755c4.1alecceish8jp) SerializedIrFileFingerprint(fileFingerprint\=krgnib3190ux.2xxpthdb2ne2e) SerializedIrFileFingerprint(fileFingerprint\=2yf0uf48d81zd.m0anpkvselc9) SerializedIrFileFingerprint(fileFingerprint\=2edd002bt1frb.3vah5zy2yk4bk) SerializedIrFileFingerprint(fileFingerprint\=2dv21fewujwoi.29fwylpgevydc) SerializedIrFileFingerprint(fileFingerprint\=3t4v5wjuqa8a8.2iba38ahhw05h) SerializedIrFileFingerprint(fileFingerprint\=1vleguq1lh82e.21yz372uv9b4m) SerializedIrFileFingerprint(fileFingerprint\=3behpzswv2tg7.lextm5kwhrd0) SerializedIrFileFingerprint(fileFingerprint\=287jr2hj111ob.3f7w6tlh8nvu7)
+jsOutputName=kobweb-kobweb-core
+abi_version=1.7.0
+metadata_version=1.4.1
+ir_version=1.0.0

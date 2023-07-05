@@ -1,0 +1,10 @@
+builtins_platform=JS
+unique_name=com.varabyte.kobweb\:kobweb-silk-icons-fa
+compiler_version=1.8.20
+depends=com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+serializedKlibFingerprint=19x8ggazmc7wv.14kipqkusbo4y
+serializedIrFileFingerprints=SerializedIrFileFingerprint(fileFingerprint\=15fdxivo1hd9d.3gx94r7wo4lwm)
+jsOutputName=kobweb-kobweb-silk-icons-fa
+abi_version=1.7.0
+metadata_version=1.4.1
+ir_version=1.0.0

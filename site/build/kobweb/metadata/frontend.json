@@ -1,0 +1,1 @@
+{"appEntry":{"fqn":"com.tech.website.MyApp"},"frontendData":{"pages":[{"fqn":"com.tech.website.pages.HomePage","route":"/"}],"kobwebInits":[],"silkInits":[{"fqn":"com.tech.website.updateTheme"}],"silkStyles":[],"silkVariants":[],"keyframesList":[]}}

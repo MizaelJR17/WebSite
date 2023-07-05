@@ -1,0 +1,10 @@
+builtins_platform=JS
+unique_name=com.varabyte.kobweb\:kobweb-silk
+compiler_version=1.8.20
+depends=com.varabyte.kobweb\:kobweb-silk-widgets com.varabyte.kobweb\:kobweb-core com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+serializedKlibFingerprint=253abpr7mg6n7.25ck0alt1wnty
+serializedIrFileFingerprints=SerializedIrFileFingerprint(fileFingerprint\=1yn8k2cptgux6.1b0vyftft7m20) SerializedIrFileFingerprint(fileFingerprint\=22q77z6phdikb.2p3y48bhhy9by) SerializedIrFileFingerprint(fileFingerprint\=24fda33kom972.2qn2mmi7wdcio) SerializedIrFileFingerprint(fileFingerprint\=lnr8jzqynlcg.2riznuv0hvs21) SerializedIrFileFingerprint(fileFingerprint\=q0h7dl7r98n9.1sh246dioomoe) SerializedIrFileFingerprint(fileFingerprint\=3f7afo65ll21f.36ipvjd0evf6s)
+jsOutputName=kobweb-kobweb-silk
+abi_version=1.7.0
+metadata_version=1.4.1
+ir_version=1.0.0
